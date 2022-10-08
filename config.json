@@ -1,10 +1,10 @@
 {
-  "prefix": "YOUR_BOT_PREFIX_HERE",
+  "prefix": "g!",
   "token": "YOUR_BOT_TOKEN_HERE",
-  "permissions": "YOUR_BOT_PERMISSIONS_HERE",
+  "permissions": "Administratior",
   "application_id": "YOUR_APPLICATION_ID_HERE",
   "owners": [
-    123456789,
-    987654321
+    989405444650987550,
+    909515934400643112
   ]
 }
