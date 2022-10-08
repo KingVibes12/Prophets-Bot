@@ -1,5 +1,5 @@
 """
-Copyright © Krypton 2022 - https://github.com/kkrypt0nn (https://krypton.ninja)
+Copyright © Vibes1781 2022 - https://github.com/KingVibes12 (https://disocrd.civilsmc.tk)
 Description:
 This is a template to create your own discord bot in python.
 
